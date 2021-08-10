@@ -1,5 +1,0 @@
-image: node
-
-pages:
-  script:
-    - npm install
